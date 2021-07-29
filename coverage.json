@@ -1,0 +1,22 @@
+{
+  "coverage": "100%",
+  "expectCount": 3,
+  "actualCount": 3,
+  "files": {
+    "src/_calloc.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/alloc.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/malloc.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}
