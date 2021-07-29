@@ -1,15 +1,17 @@
 :seat: [@array-like/alloc](https://array-like.github.io/alloc)
 ==
 
-ArrayLike allocation helper functions for JavaScript.
+`ArrayLike` allocation helper functions for JavaScript.
 See [docs](https://array-like.github.io/alloc/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
+```js
+import {alloc, malloc, _calloc} from '@array-like/alloc';
 
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+alloc(10); // Array
+malloc(10); // ArrayBuffer
+const calloc = _calloc(Int32Array);
+calloc(10); // Int32Array
+```
 
 [![License](https://img.shields.io/github/license/array-like/alloc.svg)](https://raw.githubusercontent.com/array-like/alloc/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@array-like/alloc.svg)](https://www.npmjs.org/package/@array-like/alloc)
