@@ -1,0 +1,27 @@
+:seat: [@array-like/alloc](https://array-like.github.io/alloc)
+==
+
+ArrayLike allocation helper functions for JavaScript.
+See [docs](https://array-like.github.io/alloc/index.html).
+
+> :building_construction: Caveat emptor! This is work in progress. Code may be
+> working. Documentation may be present. Coherence may be. Maybe.
+
+> :warning: Depending on your environment, the code may require
+> `regeneratorRuntime` to be defined, for instance by importing
+> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+[![License](https://img.shields.io/github/license/array-like/alloc.svg)](https://raw.githubusercontent.com/array-like/alloc/main/LICENSE)
+[![Version](https://img.shields.io/npm/v/@array-like/alloc.svg)](https://www.npmjs.org/package/@array-like/alloc)
+[![Tests](https://img.shields.io/github/workflow/status/array-like/alloc/ci:test?event=push&label=tests)](https://github.com/array-like/alloc/actions/workflows/ci:test.yml?query=branch:main)
+[![Dependencies](https://img.shields.io/david/array-like/alloc.svg)](https://david-dm.org/array-like/alloc)
+[![Dev dependencies](https://img.shields.io/david/dev/array-like/alloc.svg)](https://david-dm.org/array-like/alloc?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/array-like/alloc.svg)](https://github.com/array-like/alloc/issues)
+[![Downloads](https://img.shields.io/npm/dm/@array-like/alloc.svg)](https://www.npmjs.org/package/@array-like/alloc)
+
+[![Code issues](https://img.shields.io/codeclimate/issues/array-like/alloc.svg)](https://codeclimate.com/github/array-like/alloc/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/array-like/alloc.svg)](https://codeclimate.com/github/array-like/alloc/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/array-like/alloc/main.svg)](https://codecov.io/gh/array-like/alloc)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/array-like/alloc.svg)](https://codeclimate.com/github/array-like/alloc/trends/technical_debt)
+[![Documentation](https://array-like.github.io/alloc/badge.svg)](https://array-like.github.io/alloc/source.html)
+[![Package size](https://img.shields.io/bundlephobia/minzip/@array-like/alloc)](https://bundlephobia.com/result?p=@array-like/alloc)
