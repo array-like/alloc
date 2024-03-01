@@ -15,7 +15,7 @@ calloc(10); // Int32Array
 
 [![License](https://img.shields.io/github/license/array-like/alloc.svg)](https://raw.githubusercontent.com/array-like/alloc/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@array-like/alloc.svg)](https://www.npmjs.org/package/@array-like/alloc)
-[![Tests](https://img.shields.io/github/workflow/status/array-like/alloc/ci:test?event=push&label=tests)](https://github.com/array-like/alloc/actions/workflows/ci:test.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/array-like/alloc/ci:cover?event=push&label=tests)](https://github.com/array-like/alloc/actions/workflows/ci:cover.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/array-like/alloc.svg)](https://github.com/array-like/alloc/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/array-like/alloc.svg)](https://github.com/array-like/alloc/issues)
 [![Downloads](https://img.shields.io/npm/dm/@array-like/alloc.svg)](https://www.npmjs.org/package/@array-like/alloc)
