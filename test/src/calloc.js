@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {_calloc} from '../../src/index.js';
+import {_calloc} from '#module';
 
 const macro = (t, TypedArray, n) => {
 	const calloc = _calloc(TypedArray);

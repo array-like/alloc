@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {malloc} from '../../src/index.js';
+import {malloc} from '#module';
 
 test('malloc', (t) => {
 	const a = malloc(10);

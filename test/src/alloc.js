@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {alloc} from '../../src/index.js';
+import {alloc} from '#module';
 
 test('alloc', (t) => {
 	const a = alloc(10);
